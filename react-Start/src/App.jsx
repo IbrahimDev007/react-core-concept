@@ -4,7 +4,7 @@ function App() {
   const products=[
     {name:'laptop',price:203333, id:1},
     {name:'phone',price:40000 ,id:2},
-    {name:'wath',price:50000 ,id:3},
+    {name:'watch',price:50000 ,id:3},
     {name:'tablet',price:9000,id:4}
   ]
 	return (
