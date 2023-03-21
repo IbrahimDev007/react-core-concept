@@ -23,6 +23,7 @@ function Counter() {
     <div>
       <h2>Counter:{count}</h2>
       <button onClick={increaseCount}>Increase</button>
+      <button onClick={()=>setCount(count--)}>Increase</button>
     </div>
   )
 }
